@@ -11,3 +11,6 @@ This file is just readme
 
 The purpose of file is to provide examples
 on how to use git and github together
+
+## Adding New Section
+This change is to close the issue
